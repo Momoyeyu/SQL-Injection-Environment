@@ -1,0 +1,39 @@
+<!-- It is a html table -->
+
+<!DOCTYPE html>
+<html lang="ZH-CN">
+<head>
+    <meta charset="utf-8">
+    <title>员工邮箱采集表</title> <!-- Employee email collection table -->
+</head>
+<body>
+
+<h2 align="center">员工邮箱采集表</h2>
+
+<form action="../insert.php" method="GET">
+    <!-- action: obj file name; method: action method -->
+    <table align="center" style="border:10px;">
+        <tr>
+            <td style="width: 60PX;text-align: left;">用户名</td>
+            <td><input type="text" name="name" size="15" maxlength="20"/></td>
+        </tr>
+        <tr>
+            <td style="width: 100px; text-align: left;">密码</td>
+            <td><input type="text" name="passwd" size="15" maxlength="20"/></td>
+        </tr>
+        <tr>
+            <td style="width: 60px; text-align: left;">邮箱</td>
+            <td><input type="text" name="email" size="15" maxlength="20"/></td>
+        </tr>
+        <tr>
+            <td colspan="3" style="text-align:center;"><input type="submit" vaule="提交新增数据"/></td>
+            <!--colspan ; submit 提交表单 ; value 供脚本文件识别的返回参数-->
+        </tr>
+
+    </table>
+</form>
+
+<h3 align="center"><a href="index.html">返回导航</a></h3>
+
+</body>
+</html>
