@@ -27,7 +27,8 @@ $conn = new mysqli($servername, $username, $password, $mydb);// link to the data
 
 + For more details, definitely check my blog. I have tried my best explain all about this environment there. ([Link to the blog](https://momoyeyu.github.io/2023/04/28/Cyber%20Security/sql%20injection/#%E4%BA%BA%E5%B7%A5%E6%B3%A8%E5%85%A5%E6%B5%8B%E8%AF%95))
 
-
+## Vision
+- I am a beginner myself, but I want to make these stuff great. So I definitely need your help. If you have any idea or want to modified these code, submit an issue so that I can give you the priv. Any optimization is welcome, even if you just want to write some css to make this website more eye-pleasing.
 
 ## Tips
 - If you are not familiar with SQL and have trouble creating databases or creating table (creating table is really annoying), I recommend you to use "**Navicat**", with which you can do all those stuff with graphical interface. None the less, I supposed all beginner should try to manage their database in console, which is more challenging but rewarding.
