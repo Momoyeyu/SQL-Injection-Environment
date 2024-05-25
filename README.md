@@ -3,6 +3,11 @@
 - I'm a beginner in Cyber security myself. I'm just a freshman in college. My code can be confusing and fragile, so feel free to point out my weaknesses so that I can share better code in the future.
 - This was the first time I shared code on Github, and it kicked off my open source life. I really appreciate the open source spirit, and I wish I could be a part of it.
 
+## 作业声明：
+- 此仓库也用于完成作业，因此提供学号与姓名供老师参考：
+  - 学号：2022211607
+  - 姓名：苏俊杰
+
 ## Intro
 - This repo provides the source code for a website used as an SQL injection environment.
 - You can read my blog about this penetration test at: [momoyeyu.github.io](https://momoyeyu.github.io/2023/04/28/Cyber%20Security/sql%20injection/#%E4%BA%BA%E5%B7%A5%E6%B3%A8%E5%85%A5%E6%B5%8B%E8%AF%95) (The blog was originally written in English, but translated into Chinese for the sake of my classmates. You can use Google Translate to translate it into English or other languages)
